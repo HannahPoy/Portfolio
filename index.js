@@ -469,3 +469,11 @@ document.addEventListener('DOMContentLoaded', function() {
     directionY: 'up'
   });
 }, false);
+
+	$(function() {
+		$('ul').hide();
+	});
+
+	setInterval(function() {
+      $('ul').show().addClass("animated fadeIn");
+}, 1100);
