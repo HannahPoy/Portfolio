@@ -1,6 +1,11 @@
 div.break{
 	height: 20px;
 }
+
+img{
+	max-width: 100%;
+}
+
 *, *:before, *:after {
     box-sizing: inherit;
 }
@@ -13,6 +18,7 @@ body {
   font-family: Lucida Handwriting, sans-serif;
   color: #ffffff;
   line-height: 1.1;
+  background-attachment: fixed;
   /*background-image: URL(http://blog.thornyeternity.com/wp-content/uploads/2011/05/waves-vertical-repeat.jpg);*/
 }
 
@@ -57,8 +63,8 @@ body {
 
 #card {
   background: #fff;
-  width: 450px;
-  height: 185px;
+  width: 70%;
+  height: auto;
   margin: 3% auto;
   padding: 20px 30px;
   border: 1px solid white;
