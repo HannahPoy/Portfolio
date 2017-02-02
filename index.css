@@ -2,6 +2,10 @@ div.break{
 	height: 20px;
 }
 
+.fourpics{
+	max-width: 49%;
+}
+
 img{
 	max-width: 100%;
 }
