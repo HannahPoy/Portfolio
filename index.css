@@ -4,11 +4,11 @@ div.break{
 
 .fourpics{
 	max-width: 49%;
-}
+} /*Setting specific pictures' sizes to be a different size so that they will show up in a grid.*/
 
 img{
 	max-width: 100%;
-}
+} /*Setting all images that tare not otherwise labled to not expand beyond their container.*/
 
 *, *:before, *:after {
     box-sizing: inherit;
@@ -23,7 +23,7 @@ body {
   color: #ffffff;
   line-height: 1.1;
   background-attachment: fixed;
-}
+} /*Text styling*/
 
 #particles {
   width: 100%;
