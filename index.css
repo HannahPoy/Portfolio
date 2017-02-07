@@ -23,7 +23,6 @@ body {
   color: #ffffff;
   line-height: 1.1;
   background-attachment: fixed;
-  /*background-image: URL(http://blog.thornyeternity.com/wp-content/uploads/2011/05/waves-vertical-repeat.jpg);*/
 }
 
 #particles {
@@ -33,7 +32,6 @@ body {
   z-index: -1;
   top: 0;
   left: 0;
-  /*overflow: hidden;*/
 }
 
 .wrapper {
@@ -62,8 +60,7 @@ body {
 /* Copyright Arbaoui Mehdi 2013 */
 
 body {
-  background-image: URL(http://blog.thornyeternity.com/wp-content/uploads/2011/05/waves-vertical-repeat.jpg);
-  background-size: 50px 50px; }
+  background-image: URL(http://www.themesltd.com/backgrounds/random/swimming_pool_water.gif); }
 
 #card {
   background: #fff;
