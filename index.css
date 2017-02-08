@@ -228,9 +228,8 @@ div {
      width: 100%;
 }
 
-p {
-     color: #265687;
-     font-family: "Montserrat Alternates", sans-serif;
+p.bounceywords {
+     color: red;
      font-size: 72px;
      font-weight: 400;
      letter-spacing: -0.05em;
